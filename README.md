@@ -1,0 +1,2 @@
+# BasicContentProvider 
+Consists of an SQLite db an EditText to enter a name a done button and a TextView to display a list of names. It uses a ContentProvider to access and share the data. It has been kept simple to show how easy it is to create a content provider. To carry out CRUD operations you should install https://github.com/pongopom/BasicContentUser which connects to this app via the content Provider. 
